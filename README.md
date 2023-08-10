@@ -1,1 +1,1 @@
-takes 2 numbers as input and returns their sum.
+takes 2 numbers as input and prints their sum.
